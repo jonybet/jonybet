@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jonybet
 - 👀 I’m a self taught programmer
-- 🌱 I’m currently learning Python Programming Language
+- 🐍 I’m currently learning Python Programming Language
 - I'm currently a Student at Lee College
 
 <!---
